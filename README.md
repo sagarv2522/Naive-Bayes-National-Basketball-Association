@@ -6,6 +6,9 @@
 
 * The data for this activity consists of performance statistics from each player's rookie year. There are 1,341 observations, and each observation in the data represents a different player in the NBA. Your target variable is a Boolean value that indicates whether a given player will last in the league for five years.
 
-## Confusion Matrix
+## Confusion Matrix 🔗
 
 ![Screenshot 2023-08-04 170544](https://github.com/sagarv2522/Naive-Bayes-National-Basketball-Player/assets/109810639/46fed213-21c8-4d89-95da-e1d8fb285786)
+
+
+For more details 🔗🔗 view the Notebook 📓
