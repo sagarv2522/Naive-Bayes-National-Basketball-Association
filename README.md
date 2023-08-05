@@ -8,7 +8,7 @@
 
 ## Confusion Matrix 🔗
 
-![Screenshot 2023-08-04 170544](https://github.com/sagarv2522/Naive-Bayes-National-Basketball-Player/assets/109810639/46fed213-21c8-4d89-95da-e1d8fb285786)
+![Screenshot 2023-08-04 170544](https://github.com/sagarv2522/Naive-Bayes-National-Basketball-Association/blob/main/Screenshot%202023-08-04%20170544.png)
 
 
 For more details 🔗🔗 view the Notebook 📓
